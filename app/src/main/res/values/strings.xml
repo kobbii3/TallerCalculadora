@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="res">Resultado</string>
+    <string name="no1">No.1</string>
+    <string name="no2">No.2</string>
+    <string name="op">operación</string>
+</resources>
